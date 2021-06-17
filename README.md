@@ -6,4 +6,4 @@ Here are some ideas to get you started:
 -->
 ![Backporter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Backporter&show_icons=true&theme=tokyonight)
 
-- 📫 How to reach me: Discord: (Kernel Panic#4945) Twitter: (https://twitter.com/Kernel_Panic___)
+- 📫 How to reach me: Discord: (Kernel Panic#4945) Twitter: ("https://twitter.com/Kernel_Panic___" with the undescores, or this [twitter](https://twitter.com/Kernel_Panic___))
